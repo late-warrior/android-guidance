@@ -1,0 +1,8 @@
+This file is intended to track the development efforts of Sriram and Raghu.
+
+April 29, 2012
+--------------
+
+The first major discussion about the project.  We discussed how we can share responsibilities - Raghu will initially take care of scrapping data
+for the project and persisting it in a proper format while I(Sriram) will take care of developing the exoskeleton of the android app.
+
