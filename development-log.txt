@@ -6,3 +6,9 @@ April 29, 2012
 The first major discussion about the project.  We discussed how we can share responsibilities - Raghu will initially take care of scrapping data
 for the project and persisting it in a proper format while I(Sriram) will take care of developing the exoskeleton of the android app.
 
+
+July 10, 2012
+-------------
+
+As with any major initiative that i've taken, this too fell at its face.  Raghu did his bit, but then i could not keep pace.  a lot of stuff happened
+in the interim that prevented me from actively working on this.  hopefully, adding this log now is a sign of things to come.
